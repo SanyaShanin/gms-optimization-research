@@ -1,0 +1,3 @@
+/// @description Next type
+
+NextType();
